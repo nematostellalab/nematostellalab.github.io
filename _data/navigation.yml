@@ -8,26 +8,26 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Lab Members"
+    url: /nematostellalab/members/
+    
   - title: "Publications"
-    url: /publications/
+    url: /nematostellalab/publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Lab Members"
-    url: /members/
+    url: /nematostellalab/talks/       
         
   - title: "Projects"
-    url: /projects/
+    url: /nematostellalab/projects/
     
   - title: "CV"
-    url: /cv/
+    url: /nematostellalab/cv/
+    
+  - title: "Teaching"
+    url: /nematostellalab/teaching/ 
     
   # - title: "CV"
   #   url: /cv-json/
     
   - title: "Guide"
-    url: /markdown/
+    url: /nematostellalab/markdown/
