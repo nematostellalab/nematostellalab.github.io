@@ -20,7 +20,7 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Mucus production in the tidal anemone, Nematostella vectensis<br />Pennsylvania Academy of Science; Dallas, PA",
+    "Mucus production in the tidal anemone, _Nematostella vectensis_<br />Pennsylvania Academy of Science; Dallas, PA",
     41.33617,
     -75.9632636
   ]
