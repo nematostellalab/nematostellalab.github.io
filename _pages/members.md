@@ -11,4 +11,11 @@ author_profile: true
 
 ## Researchers
 
-- Natalie Skuza
+- Mikayla Lighting  
+- Chahinez Hennous  
+- Ayah Suleiman  
+- Jess Nahon  
+- Natalie Skuza  
+- Hadeer Hamada  
+- Natalie Martin  
+- Vanessa Ferriolo 
