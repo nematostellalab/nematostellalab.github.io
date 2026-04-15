@@ -1,48 +1,53 @@
 ---
 layout: splash
 permalink: /
-title: "Leach Lab"
+title: ""
 author_profile: false
 
 header:
   overlay_image: /images/banner.jpg
-  overlay_filter: 0.4
-  caption: "Nematostella vectensis"
+  overlay_filter: 0.5
 
 intro: 
-  - excerpt: "Behavior, circadian biology, and marine model systems"
+  - excerpt: "<h1 style='font-size: 3em;'>Leach Lab</h1><p style='font-size: 1.3em;'>Behavior, Circadian Biology, and Marine Model Systems</p>"
+
+feature_row:
+  - image_path: /images/logo.png
+    alt: "Lab logo"
+    title: "Our Lab"
+    excerpt: "We study how organisms interact with their environment across time using marine model systems."
+    
+  - image_path: /images/logo.png
+    alt: "Research"
+    title: "Research"
+    excerpt: "From circadian rhythms to host–microbe interactions, our work bridges behavior, physiology, and environment."
+    url: "/members/"
+    btn_label: "Meet the Lab"
+    btn_class: "btn--primary"
+
+  - image_path: /images/logo.png
+    alt: "Projects"
+    title: "Projects"
+    excerpt: "Explore our current research on behavior, antimicrobial biology, and environmental regulation of development."
+    url: "/projects/"
+    btn_label: "View Research"
+    btn_class: "btn--primary"
 ---
 
-## Welcome to the Leach Lab
+## Welcome
 
-We study behavior, circadian biology, and host–environment interactions in marine invertebrates, with a focus on the starlet sea anemone, *Nematostella vectensis*.
+The Leach Lab studies behavior, circadian biology, and host–environment interactions in marine invertebrates, with a focus on *Nematostella vectensis*.
 
-Our lab combines experimental biology, low-cost technology, and student-driven research to explore how organisms interact with their environment across time.
+Our work combines experimental biology, low-cost technology, and student-driven research to explore how organisms interact with their environment across time.
 
 ---
 
-## Research Focus
+## What We Do
 
 - Circadian rhythms and behavior  
 - Marine model systems  
 - Host–microbe interactions  
-- Accessible, low-cost experimental design  
-
----
-
-## Current Projects
-
-### Low-Cost Behavioral Imaging
-We are developing an affordable, modular imaging system using Raspberry Pi technology to record *Nematostella* behavior across light–dark cycles. This project makes high-quality behavioral research accessible to undergraduate labs.
-
-### Circadian Behavior and Sex Differences
-This project examines whether male and female anemones show different behavioral patterns across the day-night cycle by tracking movement, body shape, and tentacle dynamics.
-
-### Mucus and Microbial Defense
-We investigate whether *Nematostella* mucus contains antimicrobial compounds that protect against bacteria, fungi, and viruses.
-
-### Temperature and Sex Determination
-This project explores whether environmental temperature influences sex ratios during development in *Nematostella vectensis*.
+- Accessible experimental design  
 
 ---
 
