@@ -26,16 +26,16 @@ Our lab combines experimental biology, low-cost technology, and student-driven r
 
 ## Current Projects
 
-### 🛠️ Low-Cost Behavioral Imaging
+### Low-Cost Behavioral Imaging
 We are developing an affordable, modular imaging system using Raspberry Pi technology to record *Nematostella* behavior across light–dark cycles. This project makes high-quality behavioral research accessible to undergraduate labs.
 
-### ⏱️ Circadian Behavior and Sex Differences
+### Circadian Behavior and Sex Differences
 This project examines whether male and female anemones show different behavioral patterns across the day-night cycle by tracking movement, body shape, and tentacle dynamics.
 
-### 🦠 Mucus and Microbial Defense
+### Mucus and Microbial Defense
 We investigate whether *Nematostella* mucus contains antimicrobial compounds that protect against bacteria, fungi, and viruses.
 
-### 🌡️ Temperature and Sex Determination
+### Temperature and Sex Determination
 This project explores whether environmental temperature influences sex ratios during development in *Nematostella vectensis*.
 
 ---
