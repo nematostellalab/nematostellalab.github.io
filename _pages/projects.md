@@ -31,7 +31,7 @@ Students measure:
 By tracking these behaviors over time, we ask:
 Do males and females show different circadian patterns?
 
-This is a highly collaborative project that gives students hands-on experience with experimental design and data analysis.
+This is a highly integrative project that gives hands-on experience with experimental design, animal behavior, data analysis, robotics, and coding.
 
 ---
 
@@ -41,7 +41,7 @@ What’s in an anemone’s slime?
 
 This project investigates whether *Nematostella vectensis* produces **antimicrobial peptides (AMPs)** in its mucus. These molecules may help defend against bacteria, fungi, and even viruses.
 
-Each student focuses on a different microbial system, building a broader picture of how mucus functions as a **biological defense layer**.
+We hope to test different microbial systems (bacteria, fungi, protozoa, viruses), building a broader picture of how mucus functions as a **biological defense layer**.
 
 ---
 
