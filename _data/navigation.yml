@@ -9,25 +9,25 @@
 
 main:
   - title: "Lab Members"
-    url: /nematostellalab/members/
+    url: /members/
     
   - title: "Publications"
-    url: /nematostellalab/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: /nematostellalab/talks/       
+    url: /talks/       
         
   - title: "Projects"
-    url: /nematostellalab/projects/
+    url: /projects/
     
   - title: "CV"
-    url: /nematostellalab/cv/
+    url: /cv/
     
   - title: "Teaching"
-    url: /nematostellalab/teaching/ 
+    url: /teaching/ 
     
   # - title: "CV"
   #   url: /cv-json/
     
   - title: "Guide"
-    url: /nematostellalab/markdown/
+    url: /markdown/
