@@ -30,50 +30,42 @@ author_profile: false
 
 <div style="display: flex; flex-wrap: wrap; gap: 25px;">
 
-  <div style="width:220px; text-align:center;">
-    <img src="/images/mikayla.jpg" style="width:100%; border-radius:10px;">
+  <div style="width:220px;">
     <h4>Mikayla Lighting</h4>
     <p style="font-size:14px;">Investigating mechanisms of sex determination in <i>Nematostella vectensis</i>.</p>
   </div>
 
-  <div style="width:220px; text-align:center;">
-    <img src="/images/chahinez.jpg" style="width:100%; border-radius:10px;">
+  <div style="width:220px;">
     <h4>Chahinez Hennous</h4>
     <p style="font-size:14px;">Studying mucus production in <i>Nematostella vectensis</i>.</p>
   </div>
 
-  <div style="width:220px; text-align:center;">
-    <img src="/images/ayah.jpg" style="width:100%; border-radius:10px;">
+  <div style="width:220px;">
     <h4>Ayah Suleiman</h4>
     <p style="font-size:14px;">Research on mucus production in <i>Nematostella vectensis</i>.</p>
   </div>
 
-  <div style="width:220px; text-align:center;">
-    <img src="/images/jess.jpg" style="width:100%; border-radius:10px;">
+  <div style="width:220px;">
     <h4>Jess Nahon</h4>
     <p style="font-size:14px;">Researching ways to induce mucus production in <i>Nematostella vectensis</i>.</p>
   </div>
 
-  <div style="width:220px; text-align:center;">
-    <img src="/images/natalie_skuza.jpg" style="width:100%; border-radius:10px;">
+  <div style="width:220px;">
     <h4>Natalie Skuza</h4>
-    <p style="font-size:14px;">Studying circadian differences in <i>Nematostella vectensis</i> using Raspberry Pis.</p>
+    <p style="font-size:14px;">Studying circadian differences in <i>Nematostella vectensis</i> using Raspberry Pi systems.</p>
   </div>
 
-  <div style="width:220px; text-align:center;">
-    <img src="/images/hadeer.jpg" style="width:100%; border-radius:10px;">
+  <div style="width:220px;">
     <h4>Hadeer Hamada</h4>
     <p style="font-size:14px;">Research on mucus production in <i>Nematostella vectensis</i>.</p>
   </div>
 
-  <div style="width:220px; text-align:center;">
-    <img src="/images/natalie_martin.jpg" style="width:100%; border-radius:10px;">
+  <div style="width:220px;">
     <h4>Natalie Martin</h4>
-    <p style="font-size:14px;">Investigating sex differneces in behavioral rhythms in cnidarians.</p>
+    <p style="font-size:14px;">Investigating sex differences in behavioral rhythms in cnidarians.</p>
   </div>
 
-  <div style="width:220px; text-align:center;">
-    <img src="/images/vanessa.jpg" style="width:100%; border-radius:10px;">
+  <div style="width:220px;">
     <h4>Vanessa Ferriolo</h4>
     <p style="font-size:14px;">Research on circadian and behavioral biology.</p>
   </div>
