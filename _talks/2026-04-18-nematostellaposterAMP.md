@@ -14,4 +14,4 @@ Time: 2:00 – 4:30 PM
 Location: Insalaco Hall 216-219
 Title: Mucus production in the tidal anemone, _Nematostella vectensis_. 
 By Jess Nahon*, Chahinez Hennous, Ayah Suleiman, Hadeer Hamada from DeSales University. 
-Presenting an overview of ongoing work in the Leach Lab focusing on Mucus induction in *Nematostella vectensis*.
+Presenting an overview of ongoing work in the Leach Lab focusing on Mucus induction in _Nematostella vectensis_.
