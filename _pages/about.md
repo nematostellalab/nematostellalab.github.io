@@ -1,10 +1,16 @@
 ---
+layout: splash
 permalink: /
 title: "Leach Lab"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+author_profile: false
+
+header:
+  overlay_image: /images/banner.jpg
+  overlay_filter: 0.4
+  caption: "Nematostella vectensis"
+
+intro: 
+  - excerpt: "Behavior, circadian biology, and marine model systems"
 ---
 
 ## Welcome to the Leach Lab
