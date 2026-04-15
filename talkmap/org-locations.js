@@ -18,5 +18,10 @@ var addressPoints = [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
     34.0536909,
     -118.242766
+  ],
+  [
+    "Mucus production in the tidal anemone, Nematostella vectensis<br />Pennsylvania Academy of Science; Dallas, PA",
+    41.33617,
+    -75.9632636
   ]
 ];
