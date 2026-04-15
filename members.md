@@ -6,8 +6,6 @@ author_profile: false
 ---
 
 ## Lab Members
-
-**Whitney Leach, PhD**
 <h2>Anemone Supplier</h2>
 
 <div style="max-width:600px; display:flex; gap:20px; align-items:center;">
