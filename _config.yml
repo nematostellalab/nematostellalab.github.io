@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nematostella Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "With friends like these, who needs anemones"
+  location         : "Center Valley, PA"
+  employer         : "DeSales University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "whitney.leach@desales.edu" 
 
   # Academic websites
   academia         : # URL
