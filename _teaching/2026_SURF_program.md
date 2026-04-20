@@ -1,7 +1,6 @@
 ---
 title: "SURF 2026 Summer Research Program"
 collection: teaching
-type: "Undergraduate Research Experience"
 permalink: /teaching/surf-2026/
 ---
 
