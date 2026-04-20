@@ -22,17 +22,15 @@ author_profile: false
 
 </div>
 
----
-
 ## Welcome
 
 The Leach Lab studies behavior, circadian biology, and host–environment interactions in marine invertebrates, with a focus on *Nematostella vectensis*.
 
 We combine experimental biology, low-cost engineering, and behavior research to understand how organisms interact with their environment across time.
 
----
+<br><br>
 
-## Research Themes
+## Research 
 
 ### Behavioral and Circadian Biology
 We investigate how organisms structure their activity across daily and environmental cycles, and how internal biological timing systems shape behavior.
@@ -43,7 +41,7 @@ We study how mucus production and other biological secretions influence microbia
 ### Accessible Experimental Systems
 We design low-cost imaging and behavioral tracking systems to make quantitative biology more accessible and scalable.
 
----
+<br><br>
 
 ## Join the Lab
 
