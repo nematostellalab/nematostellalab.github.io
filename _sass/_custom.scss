@@ -1,0 +1,58 @@
+/* =========================================
+   LEACH LAB SCI-ART OVERRIDES
+   ========================================= */
+
+/* Base background + text */
+body {
+  background-color: #050508;
+  color: #eae6ff;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: #ff3df2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+  text-shadow: 0 0 8px #ff3df2;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #ff3df2;
+  letter-spacing: 0.5px;
+}
+
+h1 {
+  text-shadow: 0 0 10px rgba(255, 61, 242, 0.35);
+}
+
+/* Navigation bar */
+.masthead {
+  background-color: rgba(5, 5, 8, 0.95);
+  border-bottom: 1px solid rgba(255, 61, 242, 0.25);
+}
+
+/* Remove boxed template feel */
+.feature__wrapper,
+.archive__item,
+.page__content {
+  background: transparent !important;
+}
+
+/* Limit width for poster feel */
+.page,
+.page__content {
+  max-width: 1000px;
+}
+
+/* Subtle horizontal rules */
+hr {
+  border: none;
+  height: 1px;
+  background: rgba(255, 61, 242, 0.2);
+}
