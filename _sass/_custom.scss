@@ -43,6 +43,33 @@ h1 {
   text-shadow: 0 0 8px rgba(255, 61, 242, 0.3);
 }
 
+/* =========================================
+   NAVIGATION LINK OVERRIDES (FIX)
+   ========================================= */
+
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a,
+.masthead__menu-item a {
+  color: #eae6ff !important;
+}
+
+.greedy-nav .visible-links a:hover,
+.greedy-nav .hidden-links a:hover,
+.masthead__menu-item a:hover {
+  color: #ff3df2 !important;
+  text-shadow: 0 0 8px #ff3df2;
+}
+
+/* Optional global safety net */
+.masthead a {
+  color: #eae6ff;
+}
+
+.masthead a:hover {
+  color: #ff3df2;
+  text-shadow: 0 0 8px #ff3df2;
+}
+
 /* Remove boxed template feel */
 .feature__wrapper,
 .archive__item,
@@ -64,15 +91,6 @@ h1 {
   color: #eae6ff;
   font-size: 1.05rem;
   opacity: 0.95;
-}
-
-/* Navigation links */
-.greedy-nav a {
-  color: #eae6ff !important;
-}
-
-.greedy-nav a:hover {
-  color: #ff3df2 !important;
 }
 
 /* Section spacing */
