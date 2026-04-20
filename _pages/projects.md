@@ -35,7 +35,6 @@ The Leach Lab studies behavior, circadian biology, and host–environment intera
 </div>
 
 <div class="project-card">
-  <img src="/assets/images/projects/temperature.jpg" alt="Developmental temperature experiment">
   <h3>Temperature and Sex Determination</h3>
   <p>This project tests whether temperature influences sex ratios during development in <em>Nematostella vectensis</em>.</p>
 </div>
