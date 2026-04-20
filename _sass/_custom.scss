@@ -37,17 +37,48 @@ h1 {
   border-bottom: 1px solid rgba(255, 61, 242, 0.25);
 }
 
+/* Site title */
+.site-title {
+  color: #ff3df2 !important;
+  text-shadow: 0 0 8px rgba(255, 61, 242, 0.3);
+}
+
 /* Remove boxed template feel */
 .feature__wrapper,
 .archive__item,
-.page__content {
+.page__content,
+.list__item {
   background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 
-/* Limit width for poster feel */
+/* Layout width (poster feel) */
 .page,
 .page__content {
   max-width: 1000px;
+}
+
+/* Paragraph styling */
+.page__content p {
+  color: #eae6ff;
+  font-size: 1.05rem;
+  opacity: 0.95;
+}
+
+/* Navigation links */
+.greedy-nav a {
+  color: #eae6ff !important;
+}
+
+.greedy-nav a:hover {
+  color: #ff3df2 !important;
+}
+
+/* Section spacing */
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
 }
 
 /* Subtle horizontal rules */
