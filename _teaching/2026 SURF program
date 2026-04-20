@@ -14,36 +14,3 @@ permalink: /teaching/surf-2026/
   </iframe>
 </div>
 
-## Project 1: Low-cost behavioral imaging and robotics platform
-
-Students will help design and build a low-cost, beginner-friendly imaging and robotics rig using Raspberry Pi hardware and Python-based control systems. This system will enable automated time-lapse behavioral recording of *Nematostella vectensis*, allowing us to quantify movement patterns, feeding behavior, and responses to environmental change.
-
-Key skills include:
-- Basic hardware assembly and experimental setup  
-- Python programming for data acquisition and control  
-- Time-lapse imaging and behavioral tracking  
-- Experimental design for quantitative biology  
-
----
-
-## Project 2: Sex differences in circadian behavior
-
-This project investigates whether male and female *Nematostella vectensis* exhibit differences in circadian behavior and activity patterns under controlled light-dark cycles.
-
-Students will learn how to:
-- Quantify behavioral rhythms  
-- Analyze time-series activity data  
-- Connect physiological state to behavioral output  
-
----
-
-## Project 3 (exploratory): Mucus function and antimicrobial activity
-
-This project explores whether mucus produced by *Nematostella vectensis* has antimicrobial properties against a range of microbial species.
-
-Students will investigate:
-- Mucus collection and biochemical characterization  
-- Basic microbiology assays  
-- Host–microbe interactions in a simple animal model  
-
-This project treats mucus not as a passive coating, but as a potentially active defense system shaping microbial ecology.
