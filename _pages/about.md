@@ -5,7 +5,7 @@ title: ""
 author_profile: false
 
 header:
-  overlay_image: /images/banner.jpg
+  overlay_image: /images/banner.jpeg
   overlay_filter: 0.5
 
 intro: 
